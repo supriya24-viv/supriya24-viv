@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supriya24-viv
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on december 1
+- 💞
 - 📫 How to reach me 8688787717
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im undergraduate
